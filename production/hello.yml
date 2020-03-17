@@ -16,4 +16,4 @@ spec:
     spec:
       containers:
       - name: hello
-        image: zlipscomb/flux_lab:hellov1.2
+        image: zlipscomb/flux_lab:hellov1.3
